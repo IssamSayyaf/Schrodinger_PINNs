@@ -207,6 +207,8 @@ This network is a simple network just for learning propose:
 
 ![Figure_2.png](results/Figure_2.png)
 
+You can see the signal varying with time below :)
+
 [wave_function_evolution_real_imag_n0.mp4](results/wave_function_evolution_real_imag_n0.mp4)
 
 [wave_function_evolution_real_imag_n1.mp4](results/wave_function_evolution_real_imag_n1.mp4)
