@@ -187,7 +187,7 @@ $$
 
  
 
-## 4. Network
+## 3.3. Network
 
 This network is a simple network just for learning propose:
 
@@ -201,7 +201,7 @@ This network is a simple network just for learning propose:
 3. **Output Layer**:
     - The network has **2 output nodes**, $Re(\psi(x,t)), Im (\psi(x,t))$
 
-### 5. Results:
+### 4. Results:
 
 ![Figure_1.png](results/Figure_1.png)
 
