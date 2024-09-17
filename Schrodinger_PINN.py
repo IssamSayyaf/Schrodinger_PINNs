@@ -83,7 +83,7 @@ def psi_initial(x, n):
     Hn = hermite(n)
     Hn_x = Hn(x_np)
     # Normalization constant
-    norm_const = (1 / np.pi ** 0.25) * (1 / np.sqrt(2 ** n * np.math.factorial(n)))
+    norm_const = (1 / np.pi ** 0.25) * (1 / np.sqrt(2 ** n * math.factorial(n)))
     # Compute the initial wave function
     psi_n = norm_const * np.exp(-x_np ** 2 / 2) * Hn_x
     # Convert back to torch tensor
