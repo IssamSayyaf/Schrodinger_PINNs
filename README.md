@@ -53,7 +53,7 @@ $$
 The quantum harmonic oscillator has well-known solutions for the time-independent Schrödinger equation (TISE):
 
 $$
-- \frac{1}{2} \frac{d^2 \psi_n(x)}{dx^2} + \frac{1}{2} x^2 \psi_n(x) = E_n \psi_n(x) 
+\frac{1}{2} \frac{d^2 \psi_n(x)}{dx^2} + \frac{1}{2} x^2 \psi_n(x) = E_n \psi_n(x)
 $$
 
 The eigenfunctions $\psi_n(x)$ are: 
